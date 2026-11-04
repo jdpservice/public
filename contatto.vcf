@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:De Pasquale;Jos;;;
+FN:Jos De Pasquale
+ORG:jdp.service
+TITLE:Journey Digital Process
+TEL;TYPE=CELL:+393926004403
+EMAIL;TYPE=WORK:info@jdpservice.it
+EMAIL;TYPE=PEC:j.depasquale@pec.it
+URL:https://www.jdpservice.it
+URL;TYPE=WhatsApp:https://wa.me/393926004403
+PHOTO;VALUE=URI;TYPE=PNG:https://jdpservice.github.io/public/logo.png
+NOTE:Digitalizzazione processi\, automazioni\, IA applicata\, workflow analysis.
+END:VCARD
