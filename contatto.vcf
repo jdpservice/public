@@ -9,6 +9,6 @@ EMAIL;TYPE=WORK:info@jdpservice.it
 EMAIL;TYPE=PEC:j.depasquale@pec.it
 URL:https://www.jdpservice.it
 URL;TYPE=WhatsApp:https://wa.me/393926004403
-PHOTO;VALUE=URI;TYPE=PNG:https://jdpservice.github.io/public/logo.png
+PHOTO;VALUE=URI:https://jdpservice.github.io/public/logo.svg
 NOTE:Digitalizzazione processi\, automazioni\, IA applicata\, workflow analysis.
 END:VCARD
